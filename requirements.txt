@@ -1,0 +1,14 @@
+# ShadowIT Detector - Python Dependencies
+# =========================================
+
+# Core packet capture library (Python wrapper for TShark)
+pyshark>=0.6.0
+
+# Terminal UI and formatting
+rich>=13.0.0
+
+# Async support (usually included in Python 3.7+)
+# asyncio (built-in for Python 3.7+)
+
+# Note: TShark/Wireshark must be installed separately on the system.
+# See README.md for installation instructions.
